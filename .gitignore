@@ -2,11 +2,3 @@
 # Log file
 *.log
 
-*.mwb.bak
-build/
-nbbuild/
-dist/
-nbdist/
-nbactions.xml
-nb-configuration.xml
-config.properties
